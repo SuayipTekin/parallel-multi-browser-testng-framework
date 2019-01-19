@@ -1,0 +1,14 @@
+white
+red
+pink
+yellow
+cyan
+blakc
+grey
+gren
+purple
+lime
+teal
+space gray
+brown
+miami blue
